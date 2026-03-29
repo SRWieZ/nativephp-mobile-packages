@@ -1,0 +1,6 @@
+"package: calendar":
+  - "nativephp-mobile-calendar"
+"package: contacts":
+  - "nativephp-mobile-contacts"
+"package: screenshots":
+  - "nativephp-mobile-screenshots"
