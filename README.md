@@ -6,9 +6,12 @@ This repository is the public issue tracker for the following private NativePHP 
 
 | Package | Description |
 |---------|-------------|
-| `srwiez/nativephp-mobile-calendar` | Mobile calendar integration for NativePHP |
-| `srwiez/nativephp-mobile-contacts` | Mobile contacts integration for NativePHP |
-| `srwiez/nativephp-mobile-screenshots` | Screenshot capture on mobile for NativePHP |
+| [nativephp-mobile-calendar](https://nativephp.com/plugins/srwiez/nativephp-mobile-calendar) | Mobile calendar integration for NativePHP |
+| [nativephp-mobile-contacts](https://nativephp.com/plugins/srwiez/nativephp-mobile-contacts) | Mobile contacts integration for NativePHP |
+| [nativephp-mobile-screenshots](https://nativephp.com/plugins/srwiez/nativephp-mobile-screenshots) | Screenshot capture on mobile for NativePHP |
+
+> [!NOTE]
+> [nativephp-mobile-screen](https://nativephp.com/plugins/srwiez/nativephp-mobile-screen) is a free and open-source package. Issues for it should be reported directly on its [GitHub repository](https://github.com/SRWieZ/nativephp-mobile-screen).
 
 ## Reporting Issues
 
